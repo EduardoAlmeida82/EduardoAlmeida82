@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Eduardo👋
 
-- 🔭 Atualmente trabalho com desenvolvimento em front-end
+- 🔭 Atualmente estou em busca de um novo desafio na área de TI/desenvolvimneto em front-end
 - 🌱 Estudando Javascript, Git & GitHub e Bootstrap
 - 😄 Pronouns: ele/dele
 
