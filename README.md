@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Eduardo👋
 
 - 🔭 Atualmente estou em busca de um novo desafio na área de TI/desenvolvimento em front-end
-- 🌱 Estudando Javascript, Git & GitHub e Bootstrap
+- 🌱 Estudando desenvolvimento web através do HTML5, CSS3, Javascript e frameworks como Bootstrap, React e a biblioteca de componentes do Mui.
 - 😄 Pronouns: ele/dele
 
 <div align="center">
