@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Eduardo👋
 
-- 🔭 Atualmente estou em busca de um novo desafio na área de TI/desenvolvimento em front-end
+- 🔭 Atualmente estou em busca de um novo desafio na área de desenvolvimento web (frontend).
 - 🌱 Estudando desenvolvimento web através do HTML5, CSS3, Javascript e frameworks como Bootstrap, React e a biblioteca de componentes do Mui.
-- 😄 Pronouns: ele/dele
+- 😄 Pronouns: ele/dele.
 
 <div align="center">
   <a href="https://github.com/EduardoAlmeida82">
